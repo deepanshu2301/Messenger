@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "346727923277",
+    "firebase_url": "https://messenger-67a82.firebaseio.com",
+    "project_id": "messenger-67a82",
+    "storage_bucket": "messenger-67a82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346727923277:android:8329271cc8965605",
+        "android_client_info": {
+          "package_name": "com.simcoder.whatsappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346727923277-dcqmlm4gbgutpbtdse3qhds1sbh5lkeh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simcoder.whatsappclone",
+            "certificate_hash": "e5b4c4ec9a8fc7d2cccf3dbf84ecad09f2aa868e"
+          }
+        },
+        {
+          "client_id": "346727923277-a379tlkqc8ocdqac0518g47n0927gjkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwXDIRAgE6R734QF9wa-Vj3rdH0Nf9_Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346727923277-a379tlkqc8ocdqac0518g47n0927gjkc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
